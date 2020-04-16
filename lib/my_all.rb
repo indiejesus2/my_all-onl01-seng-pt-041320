@@ -7,5 +7,5 @@ def my_all?(array)
     false
   else
     true
-  end  
+  end
 end
